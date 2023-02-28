@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Example27Feburary\Task02_27Feb\Task02_27Feb\bin\Debug\net6.0\Task02_27Feb.exe
+C:\Users\hp\Desktop\Example27Feburary\Task02_27Feb\Task02_27Feb\bin\Debug\net6.0\Task02_27Feb.deps.json
+C:\Users\hp\Desktop\Example27Feburary\Task02_27Feb\Task02_27Feb\bin\Debug\net6.0\Task02_27Feb.runtimeconfig.json
+C:\Users\hp\Desktop\Example27Feburary\Task02_27Feb\Task02_27Feb\bin\Debug\net6.0\Task02_27Feb.dll
+C:\Users\hp\Desktop\Example27Feburary\Task02_27Feb\Task02_27Feb\bin\Debug\net6.0\Task02_27Feb.pdb
+C:\Users\hp\Desktop\Example27Feburary\Task02_27Feb\Task02_27Feb\obj\Debug\net6.0\Task02_27Feb.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Example27Feburary\Task02_27Feb\Task02_27Feb\obj\Debug\net6.0\Task02_27Feb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Example27Feburary\Task02_27Feb\Task02_27Feb\obj\Debug\net6.0\Task02_27Feb.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Example27Feburary\Task02_27Feb\Task02_27Feb\obj\Debug\net6.0\Task02_27Feb.AssemblyInfo.cs
+C:\Users\hp\Desktop\Example27Feburary\Task02_27Feb\Task02_27Feb\obj\Debug\net6.0\Task02_27Feb.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Example27Feburary\Task02_27Feb\Task02_27Feb\obj\Debug\net6.0\Task02_27Feb.dll
+C:\Users\hp\Desktop\Example27Feburary\Task02_27Feb\Task02_27Feb\obj\Debug\net6.0\refint\Task02_27Feb.dll
+C:\Users\hp\Desktop\Example27Feburary\Task02_27Feb\Task02_27Feb\obj\Debug\net6.0\Task02_27Feb.pdb
+C:\Users\hp\Desktop\Example27Feburary\Task02_27Feb\Task02_27Feb\obj\Debug\net6.0\Task02_27Feb.genruntimeconfig.cache
+C:\Users\hp\Desktop\Example27Feburary\Task02_27Feb\Task02_27Feb\obj\Debug\net6.0\ref\Task02_27Feb.dll
